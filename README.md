@@ -5,7 +5,7 @@ Permite cadastrar, editar, visualizar, buscar e excluir contatos de forma simple
 
 🚀 Tecnologias Utilizadas
 
-Python 3.10+
+Python 3
 
 Django 
 
