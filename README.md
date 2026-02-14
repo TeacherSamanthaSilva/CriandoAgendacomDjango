@@ -7,13 +7,13 @@ Permite cadastrar, editar, visualizar, buscar e excluir contatos de forma simple
 
 Python 3.10+
 
-Django 4.x ou 5.x
+Django 
 
-SQLite (banco padrão do Django)
+SQLite 
 
 HTML5 + CSS3
 
-Bootstrap (opcional, se utilizado)
+Bootstrap 
 
 📌 Funcionalidades
 
